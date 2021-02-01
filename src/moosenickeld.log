@@ -1,0 +1,58 @@
+2021-Feb-01 16:09:15.543672 INFO [daemon] MooseNickel v1.1.1.1()
+2021-Feb-01 16:09:15.543784 INFO [daemon] Module folder: ./moosenickeld
+2021-Feb-01 16:09:15.544285 INFO [daemon] Initializing p2p server...
+2021-Feb-01 16:09:15.544388 INFO [node_server] Binding on 0.0.0.0:11266
+2021-Feb-01 16:09:15.544441 INFO [node_server] Net service binded on 0.0.0.0:11266
+2021-Feb-01 16:09:15.544476 INFO [node_server] Attempting to add IGD port mapping.
+2021-Feb-01 16:09:19.551050 INFO [node_server] No IGD was found.
+2021-Feb-01 16:09:19.551138 INFO [daemon] P2p server initialized OK
+2021-Feb-01 16:09:19.551170 INFO [daemon] Initializing core...
+2021-Feb-01 16:09:19.551284 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2021-Feb-01 16:09:19.565798 INFO [Blockchain] Blockchain initialized. last block: 0, d3134.h17.m9.s19 time ago, current difficulty: 1
+2021-Feb-01 16:09:19.565871 INFO [daemon] Core initialized OK
+2021-Feb-01 16:09:19.565969 INFO [daemon] Starting core rpc server on address 127.0.0.1:12266
+2021-Feb-01 16:09:19.566034 INFO [daemon] Core rpc server started ok
+2021-Feb-01 16:09:19.566071 INFO [daemon] Starting p2p net loop...
+2021-Feb-01 16:09:19.566099 INFO [node_server] Starting node_server
+2021-Feb-01 16:09:31.954544 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2021-Feb-01 16:09:31.954628 INFO [core] 
+2021-Feb-01 16:09:31.954628 INFO [core] **********************************************************************
+2021-Feb-01 16:09:31.954628 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2021-Feb-01 16:09:31.954628 INFO [core] 
+2021-Feb-01 16:09:31.954628 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2021-Feb-01 16:09:31.954628 INFO [core] 
+2021-Feb-01 16:09:31.954628 INFO [core] Use "help" command to see the list of available commands.
+2021-Feb-01 16:09:31.954628 INFO [core] 
+2021-Feb-01 16:09:31.954628 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2021-Feb-01 16:09:31.954628 INFO [core] **********************************************************************
+2021-Feb-01 16:09:43.755048 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2021-Feb-01 16:09:55.587930 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2021-Feb-01 16:10:07.415597 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2021-Feb-01 16:13:54.320348 INFO [daemon] MooseNickel v1.1.1.1()
+2021-Feb-01 16:13:54.320460 INFO [daemon] Module folder: ./moosenickeld
+2021-Feb-01 16:13:54.320893 INFO [daemon] Initializing p2p server...
+2021-Feb-01 16:13:54.320992 INFO [node_server] Binding on 0.0.0.0:11266
+2021-Feb-01 16:13:54.321049 INFO [node_server] Net service binded on 0.0.0.0:11266
+2021-Feb-01 16:13:54.321095 INFO [node_server] Attempting to add IGD port mapping.
+2021-Feb-01 16:13:58.330912 INFO [node_server] No IGD was found.
+2021-Feb-01 16:13:58.331018 INFO [daemon] P2p server initialized OK
+2021-Feb-01 16:13:58.331049 INFO [daemon] Initializing core...
+2021-Feb-01 16:13:58.331132 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2021-Feb-01 16:13:58.345884 INFO [Blockchain] Blockchain initialized. last block: 0, d3134.h17.m13.s58 time ago, current difficulty: 1
+2021-Feb-01 16:13:58.345944 INFO [daemon] Core initialized OK
+2021-Feb-01 16:13:58.346037 INFO [daemon] Starting core rpc server on address 127.0.0.1:12266
+2021-Feb-01 16:13:58.346097 INFO [daemon] Core rpc server started ok
+2021-Feb-01 16:13:58.346133 INFO [daemon] Starting p2p net loop...
+2021-Feb-01 16:13:58.346162 INFO [node_server] Starting node_server
+2021-Feb-01 16:14:08.163243 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2021-Feb-01 16:14:08.163322 INFO [core] 
+2021-Feb-01 16:14:08.163322 INFO [core] **********************************************************************
+2021-Feb-01 16:14:08.163322 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2021-Feb-01 16:14:08.163322 INFO [core] 
+2021-Feb-01 16:14:08.163322 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2021-Feb-01 16:14:08.163322 INFO [core] 
+2021-Feb-01 16:14:08.163322 INFO [core] Use "help" command to see the list of available commands.
+2021-Feb-01 16:14:08.163322 INFO [core] 
+2021-Feb-01 16:14:08.163322 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2021-Feb-01 16:14:08.163322 INFO [core] **********************************************************************
+2021-Feb-01 16:14:22.582589 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds

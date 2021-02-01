@@ -1,0 +1,31 @@
+2021-Feb-01 16:11:24.441021 INFO [simplewallet] MooseNickel wallet v1.1.1.1()
+2021-Feb-01 16:11:32.019459 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:12266).
+2021-Feb-01 16:11:32.035028 INFO [simplewallet] Generated new wallet: 1LpzMGmBAAXGJUsHpHEA1R6EfWW3msTLVFU4h981T1Fv9JGV8oU12gwVJXnWGSoJT7VWkY9nzxyKQTZrbPV1mRnm3P1j2Er
+2021-Feb-01 16:11:32.035028 INFO [simplewallet] view key: c930f3bb2436dda81c0fa77d32fb9bd1165d2454013595ff4e0131af27535808
+2021-Feb-01 16:11:32.035122 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2021-Feb-01 16:11:57.946404 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2021-Feb-01 16:12:13.258166 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:12266).
+2021-Feb-01 16:14:02.055524 INFO [simplewallet] Wallet connected to daemon.
+2021-Feb-01 16:14:37.063265 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:12266).
